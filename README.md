@@ -53,12 +53,4 @@ O objetivo é consolidar conhecimentos em **programação com Python**, desde co
 
 Este curso prepara para a certificação:  
 **PCEP™ – Certified Entry-Level Python Programmer**, fornecida pelo **Python Institute**.  
-Um passo inicial essencial para a trilha de certificações em Python (PCAP, PCPP1, PCPP2).  
-
----
-
-## 🚀 Próximos passos
-
-- Avançar para o **Python Essentials 2**  
-- Preparação para **PCAP – Certified Associate in Python Programming**  
-- Projetos práticos aplicando os conceitos aprendidos 
+Um passo inicial essencial para a trilha de certificações em Python (PCAP, PCPP1, PCPP2).
