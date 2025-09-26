@@ -91,7 +91,7 @@ total_apples = jhon + mary + adam
 print("Total de maças:", total_apples)
 print("----------------------------------------------------------")
 # ------------------------------------------------------------------------------------------------
-# Variáveis ‒ um simples conversor
+# Variáveis ‒ um simples conversor -
 kilometers = 12.25
 miles = 7.38
 

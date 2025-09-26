@@ -1,14 +1,14 @@
 # Python Essentials 1 (Cisco Networking Academy) e a certificação 
 # PCEP — Certified Entry-Level Python Programmer (Python Institute). 
 print("Hello World!!") # Tradição da programação!
-print()
+print("-----------------------------------------")
 print("My name is Mateus Melo.\n")
-print()
+print("-----------------------------------------")
 print("A aranha pequenininha\nsubiu a tromba d'água.")
-print()
+print("-----------------------------------------")
 print("abaixo veio a chuva\ne lavou a aranha.")
 print("Eu gosto \"Monty Python\"") # (\) para fugir das aspas
-print()
+print("-----------------------------------------")
 print('Eu gosto "Monty Python"') # Python pode usar -- ' ' -- ao 
 # envés de aspas e não precisa usar escape aqui
 # A barra invertida (\) tem um significado muito especial quando usada 
@@ -16,10 +16,10 @@ print('Eu gosto "Monty Python"') # Python pode usar -- ' ' -- ao
 # A letra n colocada após a barra invertida vem da palavra newline (nova linha).
 # Tanto a barra invertida quanto o n formam um símbolo especial chamado caractere 
 # de nova linha, que incita o console a iniciar uma nova linha de saída.
-print()
+print("-----------------------------------------")
 print("Programação", "essencial", "em", sep="***", end="...")
 print("Python")
-print()
+print("-----------------------------------------")
 print("Meu nome é ", end="_")
 print("Monty Python", sep="_", end="_") # Meu nome é _Monty Python --> é o que aparece 
 # no terminal, veja que, quando utilizei sep="_", o depurador não separou com "_", pois
@@ -30,9 +30,10 @@ print("Monty Python", sep="_", end="_") # Meu nome é _Monty Python --> é o que
 print()
 print("Meu nome é ", end="_")
 print("Monty", "Python", sep="_", end="_") 
+print()
 
 #Veja essa brincadeira para entendimento:
-print()
+print("-----------------------------------------")
 ###################
 print("versão original:")
 ###################

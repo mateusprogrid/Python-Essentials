@@ -15,7 +15,7 @@
 #E esta é a pista: 123 é um literal e c não é.
 print("2")
 print(2)
-print()
+print("------")
 # Ambas instruções imprimem 2.
 # Por quê?
 # Neste exemplo, você encontrará dois tipos diferentes de literais:
@@ -27,7 +27,7 @@ print()
 print("2.5")
 print(2.5)
 print(0.4)
-print()
+print("------")
 # Neste exemplo, você encontrará dois tipos diferentes de literais:
 # uma -- string --, que você já conhece, são usadas quando você precisa 
 # processar texto
@@ -38,7 +38,7 @@ print()
 print(2e4) # "e" ou "E" representa 2 x 10⁴ = 20000.0
 print(6.5647E4) # 6.5647 x 10⁴ = 65647.0
 print(0.00000000000000000001) # Resultado: 1e-23
-print()
+print("------")
 # --------------------------------------------------------------------------------------
 # Valores booleanos
 # São usadas para representar um valor muito abstrato - a veracidade. Cada vez que 
@@ -48,3 +48,4 @@ print()
 # True e False, denotados como 1 e 0.
 print(True > False) # A máquina entende: 1 > 0? Resposta: True (Sim, 1 é maior do que 0)
 print(True < False)
+print("------")

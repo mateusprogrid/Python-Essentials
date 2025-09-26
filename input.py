@@ -41,9 +41,9 @@ print("----------------------------------------------------------")
 # por exemplo, você não pode usar esses dados para elevá-los ao quadrado, dividi-los por 
 # qualquer coisa ou dividir qualquer coisa por eles.
 # ⇩⇩
-# anything = input("Digite um número: ")
-# something = anything ** 2.0
-# print(anything, "elevado a 2 é", something)
+anything = input("Digite um número: ")
+something = anything ** 2.0
+print(anything, "elevado a 2 é", something)
 # ⇧⇧
 # ERRO!!
 # Isso deve ser óbvio - você pode prever o valor de "ser ou não ser" elevado à potência 
