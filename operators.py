@@ -1,4 +1,4 @@
-# Operadores - ferramentas de manipulação de dados
+# Operadores - ferramentas de manipulação de dados -
 # Operadores básicos:
 # +, -, *, /, //, %, **
 # ----------------------------------------------------------------------------------------------------

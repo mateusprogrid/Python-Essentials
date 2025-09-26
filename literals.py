@@ -1,4 +1,4 @@
-# Literais - os dados em si
+# Literais - os dados em si -
 # Um literal são dados cujos valores são determinados pelo próprio literal.
 # é um conceito difícil de entender, um bom exemplo pode ser útil.
 # Veja o seguinte conjunto de dígitos:

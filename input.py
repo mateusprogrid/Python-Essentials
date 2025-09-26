@@ -1,4 +1,4 @@
-# ----> Interação com o usuário <----
+# -----> Interação com o usuário <-----
 # A função input()
 # Vamos agora apresentar uma função completamente nova, que parece ser um 
 # reflexo da boa e velha função print().
